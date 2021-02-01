@@ -20,7 +20,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='output' name='textscan.0pnuiq10a2oqib1527hvu0xxep9g'>
-            <connection class='textscan' directory='C:/Users/asosn/Desktop/Classwork/Bikesharing' filename='output.csv' password='' port='0' server='' />
+            <connection class='textscan' directory='C:/Users/scottrab/Desktop/Columbia/Bikesharing' filename='output.csv' password='' port='0' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0pnuiq10a2oqib1527hvu0xxep9g' name='output.csv' table='[output#csv]' type='table'>
